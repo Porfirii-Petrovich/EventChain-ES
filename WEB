@@ -111,7 +111,7 @@ información disponible de la base de datos de EventChain para intercambiar los 
 La base de datos de EventChain contendrá información relevante sobre datos de usuario, información de eventos e
 historial de tickets. Almacenar datos excesivos en la blockchain de Ethereum puede ser muy caro e
 ineficiente en este momento. Dejando que la blockchain de Ethereum se centre solamente en completar
-las transacciones los usuarios podrán disfrutarán de una experiencia de ticketing más rápida y fluida.
+las transacciones los usuarios podrán disfrutar de una experiencia de ticketing más rápida y fluida.
 
 2018 Q1 - Oracle EventChain
 Un Oracle externo actuará como canal de comunicación entre los usuario y la Blockchain de
