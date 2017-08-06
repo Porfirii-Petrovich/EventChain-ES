@@ -116,16 +116,16 @@ las transacciones los usuarios podrán disfrutar de una experiencia de ticketing
 2018 Q1 - Oracle EventChain
 Un Oracle externo actuará como canal de comunicación entre los usuario y la Blockchain de
 Ethereum para implementar nuevas funcionalidades en los SmartTickets incluyendo funcionalidades de
-contratos inteligentes. La ejecución del contrato basado en Oracle comunicará a los usuarios con la blockhain
+contratos inteligentes. La ejecución del contrato basado en Oracle comunicará a los usuarios con la blockchain
 de Ethereum, verificando la validez de las transacciones de SmartTicket de una manera segura y eficiente.
-El oracle de Eventchain almacenará datos personales e históricos externos para eliminar el exceso
+El oracle de EventChain almacenará datos personales e históricos externos para eliminar el exceso
 de estrés computacional de la blockchain.
 
 2018 Q2 - Cliente de Cartera Móvil EventChain
 EventChain desarrollará una plataforma móvil para acceder al framework de SmartTicket tanto en
 apps iOS como Android. Con la mayoría de usuarios cambiando principalmente a la computación móvil,
 estas aplicaciones puede que se conviertan en la principal fuente de compra y venta de tickets.
-Con las apps de EventChain, cualquiera podr comprar un ticket para un evento rápida y
+Con las apps de EventChain, cualquiera podár comprar un ticket para un evento rápida y
 fácilmente. El asistente a un avento podría teóricamente comprar un ticket fuera del recinto y en
 cuestión de segundos tener un ticket inmutable en la blockchain para asistir al evento.
 
